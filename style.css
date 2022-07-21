@@ -194,6 +194,9 @@ footer ul {
 .footer-social-link {
     margin-top: 50px;
 }
+.footer-social-link a {
+    text-decoration: none;
+}
 .social-icon {
     font-size: 25px;
     color: #ffffff;
